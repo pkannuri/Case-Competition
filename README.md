@@ -1,4 +1,4 @@
-# Case Masters: Sustainable Housing Solutions for Greater Lafayette
+# Sustainable Housing Solutions for Greater Lafayette
 
 ## Overview
 Case Masters is an initiative undertaken in collaboration with Homestead CS and Habitat for Humanity to create sustainable and affordable housing solutions in the Greater Lafayette area. This project integrates national affordable housing strategies with local insights to foster community engagement and ensure housing affordability.
